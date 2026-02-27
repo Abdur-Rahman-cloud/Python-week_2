@@ -38,3 +38,7 @@ Example output for number `3`:
 3 x 2 = 6
 3 x 3 = 9
 and so on upto 3*10
+
+
+## Author
+**Abdur Rahman from Abdul Wali Khan University Mardan"**
